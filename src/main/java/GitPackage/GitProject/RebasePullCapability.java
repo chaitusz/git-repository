@@ -22,6 +22,10 @@ public class RebasePullCapability {
 	}
 
 >>>>>>> added method4 locally
+	
+	public void method6(){
+		System.out.println("I am from method6 created remotely");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
