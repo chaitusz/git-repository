@@ -18,15 +18,16 @@ public class RebasePullCapability {
 	public void method4() {
 		System.out.println("I am from method4 created locally");
 	}
-
 	
 	public void method6(){
 		System.out.println("I am from method6 created remotely");
 	}
+
 	public void method5() {
 		System.out.println("I am from method5 created locally");
 	}
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
